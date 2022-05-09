@@ -1,15 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Recupera" type="AUTO_DETECTED" />
       <mapping pattern="brasilia1-vip" type="AUTO_DETECTED" />
       <mapping pattern="brasilia4-vip.json" type="AUTO_DETECTED" />
+      <mapping pattern="Recupera" type="AUTO_DETECTED" />
       <mapping pattern=".nuxtignore" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="Completo" type="Vue.js" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".nuxtignore" approved="true" type="NuxtJS File" />
     </extensionMap>
   </component>
 </application>
