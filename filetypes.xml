@@ -4,6 +4,7 @@
       <mapping pattern="brasilia1-vip" type="AUTO_DETECTED" />
       <mapping pattern="brasilia4-vip.json" type="AUTO_DETECTED" />
       <mapping pattern="Recupera" type="AUTO_DETECTED" />
+      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".nuxtignore" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
