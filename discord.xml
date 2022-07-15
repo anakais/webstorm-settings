@@ -1,8 +1,9 @@
 <application>
   <component name="DiscordApplicationSettings">
     <option name="show" value="true" />
-    <option name="idle" value="IGNORE" />
     <option name="timeoutResetTimeEnabled" value="false" />
+    <option name="idle" value="IGNORE" />
+    <option name="applicationDetails" value="APPLICATION_VERSION" />
     <option name="applicationDetailsCustom" value="" />
     <option name="applicationStateCustom" value="" />
     <option name="applicationIconLargeTextCustom" value="" />
@@ -13,17 +14,18 @@
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
+    <option name="fileDetails" value="PROJECT_NAME_VCS_BRANCH" />
     <option name="fileDetailsCustom" value="" />
-    <option name="fileState" value="PROJECT_VCS_BRANCH" />
+    <option name="fileState" value="FILE_NAME" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLargeTextCustom" value="" />
     <option name="fileIconSmallText" value="APPLICATION_NAME" />
-    <option name="fileIconSmallTextCustom" value="" />
-    <option name="fileTime" value="APPLICATION" />
-    <option name="filePrefixEnabled" value="true" />
-    <option name="fileHideVcsIgnored" value="false" />
+    <option name="fileIconSmallTextCustom" value="teste" />
+    <option name="fileTime" value="APPLICATION_TOTAL" />
+    <option name="filePrefixEnabled" value="false" />
+    <option name="fileHideVcsIgnored" value="true" />
     <option name="applicationType" value="IDE" />
-    <option name="theme" value="atom" />
-    <option name="applicationLastUpdateNotification" value="1.7.1" />
+    <option name="theme" value="classic" />
+    <option name="applicationLastUpdateNotification" value="1.9.0" />
   </component>
 </application>
