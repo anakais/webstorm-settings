@@ -14,9 +14,8 @@
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
-    <option name="fileDetails" value="PROJECT_NAME_VCS_BRANCH" />
     <option name="fileDetailsCustom" value="" />
-    <option name="fileState" value="FILE_NAME" />
+    <option name="fileState" value="PROJECT_VCS_BRANCH" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLargeTextCustom" value="" />
     <option name="fileIconSmallText" value="APPLICATION_NAME" />
