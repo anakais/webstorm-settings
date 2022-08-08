@@ -2,6 +2,9 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
   <action id="TailwindAction">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
     <keyboard-shortcut first-keystroke="shift meta alt o" />
